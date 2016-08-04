@@ -1,0 +1,31 @@
+_repo: Records-of-a-Family-of-Engineers_280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: 'Introduction: The surname of Stevenson -- I. Domestic annals --II. The
+  service of the northern lights -- III. The building of the Bell Rock.'
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Stephenson family'
+- !lcsh 'Bell Rock Lighthouse (Scotland)'
+- !lcsh 'Stevenson, Robert, 1772-1850'
+- !lcsh 'Engineers -- Great Britain -- Biography'
+- !lcsh 'Lighthouses -- Scotland'
+- GITenberg
+title: Records of a Family of Engineers
+url: http://www.gutenberg.org/ebooks/280
